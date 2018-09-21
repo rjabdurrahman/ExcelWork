@@ -1,0 +1,6 @@
+Sheet JS
+https://github.com/SheetJS/js-xlsx
+https://www.youtube.com/watch?v=9hVO9-sSOVM
+https://www.youtube.com/watch?v=41rOAt-zCu4
+https://redstapler.co/sheetjs-tutorial-create-xlsx/
+https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications
